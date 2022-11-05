@@ -1,0 +1,18 @@
+body{
+    background: #00ffdd;
+}
+.box{
+    background: #00ff99;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px ;
+    height: 300px;
+    margin-top: 6rem auto 8.1rem auto;
+    width: 545px;
+    position: absolute;
+    left: 32%;
+    top: 20%;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+}
